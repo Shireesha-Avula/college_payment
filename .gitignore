@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+*.sql
+*.log
+.DS_Store
+Thumbs.db
+php/db.php
